@@ -1,4 +1,4 @@
-# Análisis exploratio de datos (EDA) - NFL 🏈
+# Análisis exploratorio de datos (EDA) - NFL 🏈
 <div id="header" align="center">
   <img src="https://www.sportscasting.com/wp-content/uploads/2020/04/Brian-Dawkins-Eagles-2004.jpg" width=""/>
 </div>
