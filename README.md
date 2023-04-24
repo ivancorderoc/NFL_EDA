@@ -1,6 +1,6 @@
 # EXPLORATORY DATA ANALYSIS - NFL 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/nhXQx5Jd1REAAAAd/nfl-nfl-tackle.gif"/>
+  <img src="https://www.sportscasting.com/wp-content/uploads/2020/04/Brian-Dawkins-Eagles-2004.jpg" width=""/>
 </div>
 
 ### **Introducción:**
