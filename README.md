@@ -27,10 +27,8 @@ relación directa entre las lesiones y el éxito? Y más importante ¿Merece
 la pena?
 
 ### **El objetivo:**
-La idea fundamental del proyecto es dilucidar si el estar sano inﬂuye
-signiﬁcativamente en el éxito de jugador. ꢁ
 
-Así como también si a pesar de esas lesiones su grado de desempeño en el campo le permite ser un jugador referente.ꢁ
-
+La idea fundamental del proyecto es dilucidar si el estar sano influye significativamente en el éxito de jugador.
+Así como también si a pesar de esas lesiones su grado de desempeño en el campo le permite ser un jugador referente.
 Una vez analizado todos los datos.
 
