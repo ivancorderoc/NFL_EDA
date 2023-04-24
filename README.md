@@ -18,7 +18,7 @@ buscando prestigio eterno.
 Más de 1643 jugadores son los que componen el “roster” de
 cada equipo para disputar las actuales 18 semanas de temporada
 regular que va desde septiembre hasta enero. 
-Vemos que menos del 16% consiguen estar entre los 100 mejores
+Vemos que solo un 6% consigue estar entre los 100 mejores
 dentro de los rankings hechos por la propia NFL.
 
 ¿Estos 100 jugadores consiguen estar año tras año en el top?
