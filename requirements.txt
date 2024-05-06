@@ -4,7 +4,6 @@ contourpy==1.0.7
 cramjam==2.6.2
 cycler==0.11.0
 fastparquet==2023.2.0
-Flask==2.2.3
 fonttools==4.39.3
 fsspec==2023.4.0
 importlib-metadata==6.3.0
